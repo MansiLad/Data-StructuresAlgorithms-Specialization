@@ -1,4 +1,4 @@
-# Uses python3
+
 import sys
 
 def fibonacci_partial_sum_naive(from_, to):
